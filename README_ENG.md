@@ -44,7 +44,7 @@ The following devices were actually tested by the maintainer and are listed for 
 
 | Device | System environment |
 | --- | --- |
-| Nintendo Switch V1 (HAC001) | System 21.2.0, AMS 1.10.2, E |
+| Nintendo Switch V1 (HAC001) | 21.2.0\|AMS 1.10.2\|E |
 
 ## Usage flow
 

@@ -42,7 +42,7 @@
 
 | 设备 | 系统环境 |
 | --- | --- |
-| Nintendo Switch V1（HAC001） | 系统 21.2.0，AMS 1.10.2，E |
+| Nintendo Switch V1（HAC001） | 21.2.0\|AMS 1.10.2\|E |
 
 ## 使用流程
 
