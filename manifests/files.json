@@ -1,0 +1,1310 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 70,
+    "sha256": "5f5921353b7656ca101803fb727cda3b17f39a1c41f3d14878f8b98b4c1b4da0",
+    "origin": "project configuration"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 395,
+    "sha256": "19dcea2828ec1f374ea6173a962382e16b8d324ed9fcec7f628c3f20c9b55e34",
+    "origin": "project configuration"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 1385,
+    "sha256": "11a380754f064e0b8228a1d52c5e8ee576fe3423b1cc5582725c5a53d38296f1",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "docs/build.md",
+    "bytes": 2132,
+    "sha256": "8eb23159928431960850a8bf6922c022a5aa1cf999ad4d67eda10dede48cbc68",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "docs/developer-guide.md",
+    "bytes": 5859,
+    "sha256": "b8ea1ef20d9cd9ff1bfe9eb51e05a6bd3e207df8797652533e4cd21fdfbf9c76",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "docs/integration.md",
+    "bytes": 1651,
+    "sha256": "c710483622af078aba91c9f2980914c45388e8b2316c435f2f4be30299772d39",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "docs/status.md",
+    "bytes": 1505,
+    "sha256": "0232e3625ee78ca6a55ec1472fe47a69cf89f98e381216a3308eaf47eb57ce72",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "examples/minimal-app/build.sh",
+    "bytes": 1537,
+    "sha256": "3b8ea9b0e10eeea31f552fdfe7499ec133cc76db6991fed9d83b747b27f40b60",
+    "origin": "AArch32 graphics example"
+  },
+  {
+    "path": "examples/minimal-app/Makefile",
+    "bytes": 670,
+    "sha256": "2efa0ceafca42f15160eade22f689c937c3b8904c4da7c7c4f86d0449281be7e",
+    "origin": "AArch32 graphics example"
+  },
+  {
+    "path": "examples/minimal-app/source/main.c",
+    "bytes": 4188,
+    "sha256": "59b3c0adcf079f6d585f78b7b7a4d0adf367667d2a6795ee08221173c73560f3",
+    "origin": "AArch32 graphics example"
+  },
+  {
+    "path": "examples/minimal-app/source/port_config.h",
+    "bytes": 448,
+    "sha256": "2cf74ff54ffacc652eefd986f39b460146ab6a6cdea4db71c3a525f9f4c9f7a0",
+    "origin": "AArch32 graphics example"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1066,
+    "sha256": "967677927b68961f9996ad68a8188dde8d3d299094af751f7841f59956e63877",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "LICENSES/COPYING.GPLv2",
+    "bytes": 18092,
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+    "origin": "project configuration"
+  },
+  {
+    "path": "LICENSES/COPYING.GPLv3",
+    "bytes": 35147,
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "origin": "project configuration"
+  },
+  {
+    "path": "LICENSES/COPYING.LGPLv3",
+    "bytes": 7651,
+    "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768",
+    "origin": "project configuration"
+  },
+  {
+    "path": "LICENSES/CPython.txt",
+    "bytes": 13936,
+    "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf",
+    "origin": "project configuration"
+  },
+  {
+    "path": "LICENSES/FFmpeg-components.md",
+    "bytes": 4376,
+    "sha256": "cb48bf09a11f5fb576cddb0431c8f5ed0a60157a9ec942adffc13907cbe083f2",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "LICENSES/FFmpeg-LGPL-2.1.txt",
+    "bytes": 26526,
+    "sha256": "b634ab5640e258563c536e658cad87080553df6f34f62269a21d554844e58bfe",
+    "origin": "project configuration"
+  },
+  {
+    "path": "LICENSES/libnx32.txt",
+    "bytes": 731,
+    "sha256": "5b6675f85016009624d29c9222201d3c0fc6a2d5c59253367f27d3e15011cdb2",
+    "origin": "project configuration"
+  },
+  {
+    "path": "LICENSES/NumPy-bundled.txt",
+    "bytes": 1082,
+    "sha256": "ad41b7898fb2e9112cc665a7a99ba46239cdd780183dbc87f2aae6f3872a6e30",
+    "origin": "project configuration"
+  },
+  {
+    "path": "LICENSES/NumPy.txt",
+    "bytes": 1543,
+    "sha256": "263223390c43a9d4a0841e0209265fd927a198f8e89c8eee809b7437d7e5e8c2",
+    "origin": "project configuration"
+  },
+  {
+    "path": "LICENSES/README.md",
+    "bytes": 744,
+    "sha256": "9068207c7bcac0fae216c0a40ba902ba05c35780f9d67a40aa19026a86802acd",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "LICENSES/zlib.txt",
+    "bytes": 1002,
+    "sha256": "e32ff4e00d9d94930537635291da39e7e612703334bf6fde8c7f1686fe8a45a2",
+    "origin": "project configuration"
+  },
+  {
+    "path": "manifests/dependencies.lock.json",
+    "bytes": 2167,
+    "sha256": "6626cb4f7d1377473ce54701f59c877b16a70352b5d348bbca78083b50301d1c",
+    "origin": "pinned dependency metadata"
+  },
+  {
+    "path": "manifests/provenance.md",
+    "bytes": 319,
+    "sha256": "d483888740856b7d1fea8623f9a3dbb7ca73ad0f121c9f3941551f6b32427c6a",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "poc/m3_boot/Makefile",
+    "bytes": 3403,
+    "sha256": "250fb6288c8087923eb2c0c7e27cb2ee5d919d5c8a6654ffbbc205af0957d150",
+    "origin": "2026-11-01 compatibility source:Makefile"
+  },
+  {
+    "path": "poc/m3_boot/source/apk_stdio_buffer.h",
+    "bytes": 503,
+    "sha256": "ebac152aa9f72bf0d1f0063701bd26cfd24697191209e23c6c2244cd5be0cba9",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/apk_stdio_buffer.h"
+  },
+  {
+    "path": "poc/m3_boot/source/asset_trace.c",
+    "bytes": 4731,
+    "sha256": "d9ff224f73efef766c676485a87503013751a596037e74a1921bcdecedc4fd32",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/asset_trace.c"
+  },
+  {
+    "path": "poc/m3_boot/source/auto_login.c",
+    "bytes": 2470,
+    "sha256": "07946bd0e9ed39a565ddea0fe5b5da9c00668c203c7723832600bf836f49afe0",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/auto_login.c"
+  },
+  {
+    "path": "poc/m3_boot/source/avpro_bridge.c",
+    "bytes": 26492,
+    "sha256": "bfb03f9baa42f3281bc618097ee3a1f3ab9b430c27eb35824efbd8384f220e73",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/avpro_bridge.c"
+  },
+  {
+    "path": "poc/m3_boot/source/bionic_dl.c",
+    "bytes": 7109,
+    "sha256": "ef47f7dd060787a7078c295027d98660690b55d755d6e1a0ec14defa59279df0",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/bionic_dl.c"
+  },
+  {
+    "path": "poc/m3_boot/source/boot_profile.c",
+    "bytes": 3073,
+    "sha256": "66b51504985c40bc2d33c4e7ce4ab7a228e8af7996a37c72ef74b0d3b4af69b2",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/boot_profile.c"
+  },
+  {
+    "path": "poc/m3_boot/source/boot_profile.h",
+    "bytes": 295,
+    "sha256": "658ea21884883de2069c98f8ecfb85e6e617f6272c1ca85f3846ea58f30bb10a",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/boot_profile.h"
+  },
+  {
+    "path": "poc/m3_boot/source/boot_ui.c",
+    "bytes": 10629,
+    "sha256": "f1e8ad95b41a52686a0dd41d256edaa3093fd66be6a1bd5f7110ea650ce92d38",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/boot_ui.c"
+  },
+  {
+    "path": "poc/m3_boot/source/boot_ui.h",
+    "bytes": 225,
+    "sha256": "ef0dea8702df200170e73f0ffdd8ef99527f07158ef4dd2f29a47fcab696986b",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/boot_ui.h"
+  },
+  {
+    "path": "poc/m3_boot/source/camera_axis.h",
+    "bytes": 805,
+    "sha256": "ff6701ca7294470677a92df827196925fbd098fdd00cfd91d235537ba2e05fb2",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/camera_axis.h"
+  },
+  {
+    "path": "poc/m3_boot/source/camera_bridge.c",
+    "bytes": 3207,
+    "sha256": "b6711344497cc34758b6d83b959536cf7fa007c53c2d0c61890949bc666d58bd",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/camera_bridge.c"
+  },
+  {
+    "path": "poc/m3_boot/source/cg_decoder.c",
+    "bytes": 20310,
+    "sha256": "accc5255d144999564699e0671c668b46fc2f8583dc3d082b8a2d31238058523",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/cg_decoder.c"
+  },
+  {
+    "path": "poc/m3_boot/source/cg_decoder.h",
+    "bytes": 722,
+    "sha256": "ccea2782ae8dd9624d10f9f1748c7387789c5d87f9073e4451fa46ce798b3ec1",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/cg_decoder.h"
+  },
+  {
+    "path": "poc/m3_boot/source/cg_resample.h",
+    "bytes": 2997,
+    "sha256": "a20f2598bfd4260c920d821fe6d77f2b48452e022e008f9278d9ed9b1eaba9e8",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/cg_resample.h"
+  },
+  {
+    "path": "poc/m3_boot/source/controller_bridge.c",
+    "bytes": 3327,
+    "sha256": "87af93c2fdcb87c91e7557e895169c24bfcfffad05c0fa832604b780658a3c72",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/controller_bridge.c"
+  },
+  {
+    "path": "poc/m3_boot/source/controller_bridge.h",
+    "bytes": 392,
+    "sha256": "53379b89a49d48519be9de548dc84eddbb1f6501310576d8271ea0d9bb89a612",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/controller_bridge.h"
+  },
+  {
+    "path": "poc/m3_boot/source/controller_overlay.c",
+    "bytes": 1586,
+    "sha256": "1b3d6459402cc9f5969868d134092cc2464a9c4ec814489800111042ea29b8a8",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/controller_overlay.c"
+  },
+  {
+    "path": "poc/m3_boot/source/controller_state.h",
+    "bytes": 4453,
+    "sha256": "96064d7cd2dbe1dfc88bb2eb953b36d5745b2218458a7be924d17052d1748e4a",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/controller_state.h"
+  },
+  {
+    "path": "poc/m3_boot/source/entry_flow.c",
+    "bytes": 10661,
+    "sha256": "fb1f021033cc3fa101f8c2a93bb5284f29af9ca17a4407a5a3ea8fc8c9746faa",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/entry_flow.c"
+  },
+  {
+    "path": "poc/m3_boot/source/exc_hook.c",
+    "bytes": 26242,
+    "sha256": "3043a45b78cf3b9848c8774bea5253add423bc3bca0f9f28a4f964223428ade7",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/exc_hook.c"
+  },
+  {
+    "path": "poc/m3_boot/source/gc_bridge.c",
+    "bytes": 6910,
+    "sha256": "155275b44dc909852960610265f9dcb41bac235667f326ba4d2526325e5f2d07",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/gc_bridge.c"
+  },
+  {
+    "path": "poc/m3_boot/source/imports.c",
+    "bytes": 55055,
+    "sha256": "d11a923076dd1708c7387f977a1f50ddef21e9cbb974d480ba52b827b6810cf8",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/imports.c"
+  },
+  {
+    "path": "poc/m3_boot/source/inflate_trace.c",
+    "bytes": 1139,
+    "sha256": "b5458475a7af83ad823fe903f83a06282615e517bbca9d9d0f87eb92fb894e3d",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/inflate_trace.c"
+  },
+  {
+    "path": "poc/m3_boot/source/input_bridge.c",
+    "bytes": 9560,
+    "sha256": "a16a87236d5be9ec60296201b0fd3c1cbadd104e1df10dc9c22cc53076e3300f",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/input_bridge.c"
+  },
+  {
+    "path": "poc/m3_boot/source/input_bridge.h",
+    "bytes": 338,
+    "sha256": "46ba479da653e631757c63d6bd2deb56d082042474f7d35a39c4a8aa166525f3",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/input_bridge.h"
+  },
+  {
+    "path": "poc/m3_boot/source/jni_tables.c",
+    "bytes": 55919,
+    "sha256": "b9806b1bd168d0188c5e9f84d29736fb49536be882b2b96fa10ff8996f43481f",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/jni_tables.c"
+  },
+  {
+    "path": "poc/m3_boot/source/keyboard_bridge.c",
+    "bytes": 4408,
+    "sha256": "3260826065f5e250af0bf98deb52857050ca601d2e3fd200ac940291ada8ae27",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/keyboard_bridge.c"
+  },
+  {
+    "path": "poc/m3_boot/source/keycard_gate.c",
+    "bytes": 1080,
+    "sha256": "a7a144054d7494db6544e504c2717d0aaf38890d2cf29055e28a6315ae5f962c",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/keycard_gate.c"
+  },
+  {
+    "path": "poc/m3_boot/source/load_io.c",
+    "bytes": 2234,
+    "sha256": "cb81cbd32f2a3274bc0baeb62c7cb14e2da49fb941e9620cd3c2337e37e6650e",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/load_io.c"
+  },
+  {
+    "path": "poc/m3_boot/source/load_profile.c",
+    "bytes": 4401,
+    "sha256": "00b73392a81b2ba5b4ab3798803c4f13b397328762ed6daeb5ea7ed9ea236ced",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/load_profile.c"
+  },
+  {
+    "path": "poc/m3_boot/source/load_profile.h",
+    "bytes": 456,
+    "sha256": "39110b03297c666f0dac8770f6bdf487904a69cea9bd44eca23bbbd8f102858d",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/load_profile.h"
+  },
+  {
+    "path": "poc/m3_boot/source/local_server.c",
+    "bytes": 20888,
+    "sha256": "af654e8f89d7a42cdc73dc41ac443dd2b8d9b53299425c9923b37adc6809b23a",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/local_server.c"
+  },
+  {
+    "path": "poc/m3_boot/source/local_server.h",
+    "bytes": 802,
+    "sha256": "262020a7794afc46c7b208b0bf419aab27b80198b7d584e94cdb3cd76fb8b3c1",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/local_server.h"
+  },
+  {
+    "path": "poc/m3_boot/source/main.c",
+    "bytes": 18592,
+    "sha256": "243198e28b838ea7c6bfd4bcad5879e52ec7095db8b2a0f4e4a92fa0f85d8f4a",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/main.c"
+  },
+  {
+    "path": "poc/m3_boot/source/memory_diag.c",
+    "bytes": 2882,
+    "sha256": "8ef24ac564d1f169694e9df383a9ee9062e0efbf02ad4901b9007fb0f8e3a5a5",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/memory_diag.c"
+  },
+  {
+    "path": "poc/m3_boot/source/network.c",
+    "bytes": 1783,
+    "sha256": "9f3d8a70eafc817f6d90f44277ea76a0b49999b062dda12d3d57504fdbdc7de1",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/network.c"
+  },
+  {
+    "path": "poc/m3_boot/source/network.h",
+    "bytes": 173,
+    "sha256": "df4334d3291cf23f5eb7fc62a6c89e7364898f8890dcf693563ba7832b4b4956",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/network.h"
+  },
+  {
+    "path": "poc/m3_boot/source/package_boot.c",
+    "bytes": 2919,
+    "sha256": "a78a7f2ad2bcbdbcbb2829a2138a887b336856e64ec3fd9aef6eacf5db46d8cd",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/package_boot.c"
+  },
+  {
+    "path": "poc/m3_boot/source/package_identity.h",
+    "bytes": 122,
+    "sha256": "916586757cc10eee883942bb6d787c267642f00812b612839ff4bf96bd749a96",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/package_identity.h"
+  },
+  {
+    "path": "poc/m3_boot/source/package_install.c",
+    "bytes": 4068,
+    "sha256": "6652fb5c499050a7f817053f4c53b16c387dc37da31f54e8bcc3d3cbde4f9950",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/package_install.c"
+  },
+  {
+    "path": "poc/m3_boot/source/package_install.h",
+    "bytes": 458,
+    "sha256": "85ebb4eca3a2e579ebad5d5fc56b678250b3550d5065fbeed36ff678c9578147",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/package_install.h"
+  },
+  {
+    "path": "poc/m3_boot/source/port_config.h",
+    "bytes": 816,
+    "sha256": "fd90bac34cfa3803cfbdcedc13ced692d36de3700d11a769c58beb8e63754df5",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/port_config.h"
+  },
+  {
+    "path": "poc/m3_boot/source/resource_load_lock.c",
+    "bytes": 1748,
+    "sha256": "e006ad452bd7779bc63a9ec6ee81ffacdee8fd1a6d11ebea5b5553cec9f9762c",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/resource_load_lock.c"
+  },
+  {
+    "path": "poc/m3_boot/source/resource_trace.c",
+    "bytes": 7888,
+    "sha256": "90f1651fb41403767085146304f11773a81dae51993899921f7a3efc67881c89",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/resource_trace.c"
+  },
+  {
+    "path": "poc/m3_boot/source/serializer_cache_guard.c",
+    "bytes": 3489,
+    "sha256": "65b48e6a01bd3455f88e581febf8da78d65d65f80d0c24827a9456e0523619d7",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/serializer_cache_guard.c"
+  },
+  {
+    "path": "poc/m3_boot/source/serializer_cache_tramp.S",
+    "bytes": 340,
+    "sha256": "17a6c5b034c08f553e50f19fb8d70e2b1c9b234abfe613941a2e633554f91cbe",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/serializer_cache_tramp.S"
+  },
+  {
+    "path": "poc/m3_boot/source/serializer_profile.c",
+    "bytes": 4529,
+    "sha256": "2d5798612d0556dbb9c0e5780f7b5ce4be98f12e1cfa8148ba7aa248e2da9a53",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/serializer_profile.c"
+  },
+  {
+    "path": "poc/m3_boot/source/serializer_profile_tramp.S",
+    "bytes": 490,
+    "sha256": "b5d14d2807ce4ec803872ef8f4416b03ec9c9a59b7c500ed488a978884aed4aa",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/serializer_profile_tramp.S"
+  },
+  {
+    "path": "poc/m3_boot/source/shims.c",
+    "bytes": 9182,
+    "sha256": "a50ada5fde22a6ee344a80d9c08bd640511704c86314b185c37ff05c79b0191b",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/shims.c"
+  },
+  {
+    "path": "poc/m3_boot/source/startup_sched.c",
+    "bytes": 1302,
+    "sha256": "cd478e05bc9979684628a8b88237e235b45a5e470dc9b7eabd15dd9e6bd93da8",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/startup_sched.c"
+  },
+  {
+    "path": "poc/m3_boot/source/table_profile.c",
+    "bytes": 5722,
+    "sha256": "21da25c1c1943eaf0c1462255a67b93fce93d3421dd93d8e5e0f01ac0f0ba89c",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/table_profile.c"
+  },
+  {
+    "path": "poc/m3_boot/source/table_profile_tramp.S",
+    "bytes": 322,
+    "sha256": "a1597a5935db785b17261edea6abd10a69f02376fdd5260422cb2a0c80f2049e",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/table_profile_tramp.S"
+  },
+  {
+    "path": "poc/m3_boot/source/table_split.inc",
+    "bytes": 4411,
+    "sha256": "00143fbc68f749bc2a3318067ec7f6c1eb68bfdf4fcd4257836eeab77b82af82",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/table_split.inc"
+  },
+  {
+    "path": "poc/m3_boot/source/table_textmap.inc",
+    "bytes": 3051,
+    "sha256": "cf2ffc3f2fb13dd45694ceb7fc71bddd7de442cd202da0a87a78b444673df9d5",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/table_textmap.inc"
+  },
+  {
+    "path": "poc/m3_boot/source/table_worker_probe.c",
+    "bytes": 10077,
+    "sha256": "51795e2a34b46951bcfe525735a85128c313d67e078e11fdd9f995e0ec00cb18",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/table_worker_probe.c"
+  },
+  {
+    "path": "poc/m3_boot/source/tcp_bridge.c",
+    "bytes": 7409,
+    "sha256": "0a8b1f46cda74315deaf1b3b1b70f58f99045787c658a14677407cf6503bd8b8",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/tcp_bridge.c"
+  },
+  {
+    "path": "poc/m3_boot/source/touch_state.h",
+    "bytes": 1960,
+    "sha256": "4947bacfc0e58b4b6b1fd3b5d02c935ace4ae4fd89f6759ab3681ef38b16c5c5",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/touch_state.h"
+  },
+  {
+    "path": "poc/m3_boot/source/tramp_hooks.S",
+    "bytes": 7174,
+    "sha256": "c5b114a53ec06cfd26f72cc723ff2a1d79f7adfb309b80260a43b449606161cf",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/tramp_hooks.S"
+  },
+  {
+    "path": "poc/m3_boot/source/voice_seek_probe.c",
+    "bytes": 1149,
+    "sha256": "ab07f6f1203ea1c297ca790a807a0c54668e70b60632ba1da15c98a28d83b451",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/voice_seek_probe.c"
+  },
+  {
+    "path": "poc/m3_boot/source/www_bridge.c",
+    "bytes": 8065,
+    "sha256": "0fad6d898e390dcc702a785820e50dd46636b9345d16231282c13ef0bf799dea",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/www_bridge.c"
+  },
+  {
+    "path": "poc/m3_boot/source/zip_encoding.c",
+    "bytes": 3431,
+    "sha256": "8a0774a4dce9d99ad7950a9f71fd5974f517292e741e42c1bb8413409e823406",
+    "origin": "2026-11-01 compatibility source:poc/m3_boot/source/zip_encoding.c"
+  },
+  {
+    "path": "poc/python32_probe/build_numpy.sh",
+    "bytes": 181,
+    "sha256": "87dce2fdb46416ced3e340f6b7a1347e52d0c83c9ccd734466e9a7479b79ac8d",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/configure_numpy.sh",
+    "bytes": 303,
+    "sha256": "29b671b9602f0260f790f4ae6f6357d89c6624c9ab0c968088f5ce43768ecfa5",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/cpython32.patch",
+    "bytes": 2124,
+    "sha256": "048e41696f8a1cfc5868cf6d7b83daffe1fa8e7e9d76ee1b4223e8c3bc9125f8",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/cython",
+    "bytes": 82,
+    "sha256": "5a871604466767c443ce485d9591e46cd466d565651e26caf2ce04e1af17b605",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/dependencies.json",
+    "bytes": 745,
+    "sha256": "6da58f2ab2f358ee4d539d9e058e83c31ae8bc3d1eb6eb970243c2a04bf34ed5",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/numpy-cc",
+    "bytes": 557,
+    "sha256": "460c01b3711e3ab39434837eaf5ad3861f9df69ad2d8b84c79a0e322f1b0b4e5",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/numpy-cpp",
+    "bytes": 557,
+    "sha256": "460c01b3711e3ab39434837eaf5ad3861f9df69ad2d8b84c79a0e322f1b0b4e5",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/numpy-cross.ini",
+    "bytes": 1255,
+    "sha256": "a63ccde636877f491f21f00f1c98c63566229e5353935a6d4befb0fe15d47e80",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/numpy-python",
+    "bytes": 213,
+    "sha256": "32b22d16b9a74f91758da60a7f2791170563c648f0ad14553c82dc22d3b98745",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/numpy_static.py",
+    "bytes": 1948,
+    "sha256": "88b798a4dddbd7a8161a7f6ae6c54f48322f8d6b9964c41c5e83b48f970c669f",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "poc/python32_probe/package_numpy_python.py",
+    "bytes": 720,
+    "sha256": "27d93828961c1e2c326ac82dd742bbc1e7ac0c0cb964662b737499c3ba11bb62",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4607,
+    "sha256": "c805e6de8bd61d52f3e4e999d0f3430e124178c36bab9ae25fc5ae45f17ffed7",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "references/bh3-1.9/python-server-host/nx_backend.example.py",
+    "bytes": 770,
+    "sha256": "8a3c3b063d7b1614d164b6762e747fb769ab0022a8ebf9f0331784bcf1835cc5",
+    "origin": "Python backend integration template"
+  },
+  {
+    "path": "references/bh3-1.9/python-server-host/nx_boot_profile.py",
+    "bytes": 1464,
+    "sha256": "789f4aacdfb4811ba23bead9233c3331738a3b4c66ddd96f03b56432a9e1ceea",
+    "origin": "Python backend integration template"
+  },
+  {
+    "path": "references/bh3-1.9/python-server-host/nx_save_journal.py",
+    "bytes": 5977,
+    "sha256": "5248a14ef46972084b10e1d05470955dd08b5d5603bdf98126cca5f0a46403fd",
+    "origin": "Python backend integration template"
+  },
+  {
+    "path": "references/bh3-1.9/python-server-host/nx_server.py",
+    "bytes": 2141,
+    "sha256": "11afe1356ff04a99dc3368c792d9bc1e32c8dc3171f529e9087c25048b19579d",
+    "origin": "Python backend integration template"
+  },
+  {
+    "path": "references/bh3-1.9/python-server-host/README.md",
+    "bytes": 1116,
+    "sha256": "6578f5c9e3e5727ee36286b578572a612161bdc41aaa0b72112e4553c350eb1e",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "third_party/android32/dcr32.ld",
+    "bytes": 6576,
+    "sha256": "717d817d0c214e3c5f4d47b4ebf4ca0691bc032c42709ad8cf0cee9656359f5b",
+    "origin": "android32 build support (source tree)"
+  },
+  {
+    "path": "third_party/android32/dcr32.specs",
+    "bytes": 189,
+    "sha256": "f87c9218ac1d2037ebcd4a809e371c18ca724a87de88438d9faf5502db1dcf7a",
+    "origin": "android32 build support (source tree)"
+  },
+  {
+    "path": "third_party/android32/LICENSE",
+    "bytes": 1331,
+    "sha256": "53ec03649d32691fb95d257dec39b8b11d824a73a5a9e66ac8074bd822d1eb5f",
+    "origin": "android32 build support (source tree)"
+  },
+  {
+    "path": "third_party/android32/npdm.json.in",
+    "bytes": 6722,
+    "sha256": "c270a22f78ce61cfad2557998ac305782da5477f8336403897a90d2deced1467",
+    "origin": "android32 build support (source tree)"
+  },
+  {
+    "path": "third_party/android32/runtime.mk",
+    "bytes": 11546,
+    "sha256": "7385d44d86a9e521b9cea57bcad8a91687f3fd1e03dd4e5c8f507208910a06f3",
+    "origin": "android32 build support (source tree)"
+  },
+  {
+    "path": "third_party/android32/source/android_ndk.c",
+    "bytes": 14461,
+    "sha256": "f25679caf02f587d97773d1f2cdf14bf3fae355643686837f8983f269cb859a8",
+    "origin": "2026-11-01 compatibility source:android32/source/android_ndk.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic.h",
+    "bytes": 10652,
+    "sha256": "5a3a3c40d90b89f23915a9a5205ee8bf94535387d4329df77626d7b5fd3ff99c",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic.h"
+  },
+  {
+    "path": "third_party/android32/source/bionic_core.c",
+    "bytes": 17094,
+    "sha256": "26920ee064a9ba30609b7a3ed859b44f179b55c250f7575b5ebb9de6fb32a949",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_core.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_cxx.c",
+    "bytes": 3360,
+    "sha256": "36713c26bb8b5016e9c4d37e4c9eaf5805738b3d4c6a2a6a3a8dd7ed010a562f",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_cxx.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_dl.c",
+    "bytes": 6082,
+    "sha256": "8f182c451f1e0492cfa7ff4cc34b5955a2f9ab72cda10e5d368c966d533781f4",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_dl.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_extra.c",
+    "bytes": 11789,
+    "sha256": "e19ed9b94873f905616b6ef5e99b44cf444a7e6f1d9d95f6470db05fdb95f8ac",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_extra.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_io.c",
+    "bytes": 53000,
+    "sha256": "3a4c09b4d27cbb1a6639f3870e5e2a5b00d9fa5bcc67b6ff1b7cd6f4ffbcbc43",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_io.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_io.h",
+    "bytes": 2345,
+    "sha256": "c72c808e52ebed8260ee30f6866f318ac6e5e30f923a1dbb1fbc1b0e3c7e58c7",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_io.h"
+  },
+  {
+    "path": "third_party/android32/source/bionic_math.c",
+    "bytes": 2775,
+    "sha256": "c2e672b1e8b612b1528d4b18854e6d9d52aef4f8b45ac071586a2f7d86849b0a",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_math.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_mem.c",
+    "bytes": 9465,
+    "sha256": "fe62a58a9d4a3b5dd83cb770eb89195253f371a4f41b2937e68766e44807e75c",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_mem.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_net.c",
+    "bytes": 7237,
+    "sha256": "59eea8e8fe376972d3f1a0640d1eb491d0f199355f052cd8b7fb2a7dc971ef6c",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_net.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_printf.c",
+    "bytes": 8055,
+    "sha256": "c0f306455bf8e319115bbe33c2ec6dc31b64e868bb8af0a22529db90db9fdb87",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_printf.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_pthread.c",
+    "bytes": 39691,
+    "sha256": "76b1f5cec2a48fc09834edbe7f369c5a86d619257d97cbec74a76b588a29f441",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_pthread.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_pthread.h",
+    "bytes": 3725,
+    "sha256": "dc6e3c5e2d4f35a8cfd71c90d1227f6cc85bca99c7d3548b9a60bcb7b898ebef",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_pthread.h"
+  },
+  {
+    "path": "third_party/android32/source/bionic_setjmp.S",
+    "bytes": 1544,
+    "sha256": "b7c32ec7bce41beec58c957bcb0a6214ffd55515bb5749ca6891649734cf0fc1",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_setjmp.S"
+  },
+  {
+    "path": "third_party/android32/source/bionic_sha1.c",
+    "bytes": 3017,
+    "sha256": "c839b0aa9c2d5760b2bfcd6230209144508e15fe172d8d2b28ff97338da055e8",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_sha1.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_signal.c",
+    "bytes": 4003,
+    "sha256": "82d565bd07291cd8dcee6da8439122cfa6a8f5f0e0c4e4e09d33fe9ddccb6606",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_signal.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_stdio.c",
+    "bytes": 14883,
+    "sha256": "08dd408955e135d63a832f488a628c4194e939c148fc8a87b31af9365b675f51",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_stdio.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_time.c",
+    "bytes": 18121,
+    "sha256": "f79ea726c4eb13051f70de211e0491e3e49696f4aff257e31e5dd5001bef10a8",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_time.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_wchar.c",
+    "bytes": 8674,
+    "sha256": "c09b87a88f813e0fa1ecc8d3a2dcc69a6677274181879d302c290d658345c6bb",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_wchar.c"
+  },
+  {
+    "path": "third_party/android32/source/bionic_zlib.c",
+    "bytes": 9199,
+    "sha256": "9982afec675843c15de9560a07997ec4fb68d7bfeed33e290beb72b4ee27b5e6",
+    "origin": "2026-11-01 compatibility source:android32/source/bionic_zlib.c"
+  },
+  {
+    "path": "third_party/android32/source/code_flush.c",
+    "bytes": 3922,
+    "sha256": "0b3012386aaaf15514006bc3b2e6da37e8b9523b38f0183e9ba13fb5e4b79b2a",
+    "origin": "2026-11-01 compatibility source:android32/source/code_flush.c"
+  },
+  {
+    "path": "third_party/android32/source/code_flush.h",
+    "bytes": 842,
+    "sha256": "d98d2a5a95ec8f9e1e0d0fc773ff17fecf1fdae89db3d90897013eec42107734",
+    "origin": "2026-11-01 compatibility source:android32/source/code_flush.h"
+  },
+  {
+    "path": "third_party/android32/source/codespace.c",
+    "bytes": 1447,
+    "sha256": "1f8b3db51e27c9248d1a1800ebe32ef79815419d97eac6c681c3af5c370a3212",
+    "origin": "2026-11-01 compatibility source:android32/source/codespace.c"
+  },
+  {
+    "path": "third_party/android32/source/codespace.h",
+    "bytes": 2007,
+    "sha256": "64719dc88ea2a731a33b37bac369a2db9316b907b5629b64b0b3d43e2c5cf8bc",
+    "origin": "2026-11-01 compatibility source:android32/source/codespace.h"
+  },
+  {
+    "path": "third_party/android32/source/crt0_reloc.c",
+    "bytes": 21132,
+    "sha256": "4f2403f134ca3c0fd921556aa6baa7b2025dd0f283ffe63b6fb4582f956f8a3c",
+    "origin": "2026-11-01 compatibility source:android32/source/crt0_reloc.c"
+  },
+  {
+    "path": "third_party/android32/source/dcr_apkcache.c",
+    "bytes": 7187,
+    "sha256": "e0295d19e9146ea5867af6bc265fffeaaa8da27daac71967d50678b7f1b49cbf",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_apkcache.c"
+  },
+  {
+    "path": "third_party/android32/source/dcr_apkcache.h",
+    "bytes": 772,
+    "sha256": "c9dd4d9ce782a2b68c546710df318d150ee3f91201e53af2637b20c0cfb768ac",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_apkcache.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_boost.c",
+    "bytes": 16772,
+    "sha256": "ff58e0340491d75c7e7ae5c9b7616206ef12808c39bde43c860448f0df6133c6",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_boost.c"
+  },
+  {
+    "path": "third_party/android32/source/dcr_boost.h",
+    "bytes": 2716,
+    "sha256": "bd2cfc54e8d81dff63d556124f926e091256581edbff1f5f0f047f97aca23f62",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_boost.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_dircache.c",
+    "bytes": 6426,
+    "sha256": "5b987176ada92fbc10121c78025a69ab76893c64ff065d6ad8e680b4a2f3a384",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_dircache.c"
+  },
+  {
+    "path": "third_party/android32/source/dcr_dircache.h",
+    "bytes": 529,
+    "sha256": "ce22be94d49cd3644b8b1105a17034cf52697178a1dc81bbd8df32687cbffe9f",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_dircache.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_exefs.h",
+    "bytes": 5600,
+    "sha256": "6d27be0ce6cd73589c9152e5bd883761f33b197418d6c7e5506c515e927f32aa",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_exefs.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_formats.h",
+    "bytes": 5222,
+    "sha256": "084127d5fa001393ecb8a6e43fcb0855f4c0c17faa5a508609399c2ee70e0075",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_formats.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_manifest.c",
+    "bytes": 8545,
+    "sha256": "4506236de9455dcf7fb044b9edd4a45ad119636ea7b549f269f6d31312f41a73",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_manifest.c"
+  },
+  {
+    "path": "third_party/android32/source/dcr_manifest.h",
+    "bytes": 956,
+    "sha256": "5bb8099ef45c2fa942d34dc8d5e8b04f1a547f988407d9d637acd53db17cfde2",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_manifest.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_net.h",
+    "bytes": 1512,
+    "sha256": "3996b4f3b7a3ddf2dbef35cbfe2a0439a9650ea7acd39f71dbde0df9183b884e",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_net.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_path.c",
+    "bytes": 10787,
+    "sha256": "32edca305dbb6386f32ee83a09a278e8d010818a2b71fa1ce59477e6df16e632",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_path.c"
+  },
+  {
+    "path": "third_party/android32/source/dcr_path.h",
+    "bytes": 1896,
+    "sha256": "bebaf67a19568a085c7eedd9982112860e76109721538d9a05f1e37b09d6d091",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_path.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_sched.c",
+    "bytes": 9892,
+    "sha256": "782c2505acfee38846b7ca5713352d4c0220d0e806fcaf9f17d9d1ce8e1ef695",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_sched.c"
+  },
+  {
+    "path": "third_party/android32/source/dcr_sched.h",
+    "bytes": 574,
+    "sha256": "2e3b5aa4a5ad1139872a8530b0d62662b36176f365e18cfc12557367ca04746b",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_sched.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_setup.c",
+    "bytes": 33383,
+    "sha256": "3d9f8e843cc160101b82a5e9a7c583b52928bdca861350f9b80f9fcc90e3c7e3",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_setup.c"
+  },
+  {
+    "path": "third_party/android32/source/dcr_setup.h",
+    "bytes": 8570,
+    "sha256": "c1b6a9c37961edcbcfb2715add46a44c0c83978f88e6b228ba93335b97c7c23c",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_setup.h"
+  },
+  {
+    "path": "third_party/android32/source/dcr_time.h",
+    "bytes": 1383,
+    "sha256": "a7b9c4a1adc0d3fbece74f3d363e7114f2766c8b33342f73908927a61c6e7a96",
+    "origin": "2026-11-01 compatibility source:android32/source/dcr_time.h"
+  },
+  {
+    "path": "third_party/android32/source/emu_fixups.c",
+    "bytes": 18402,
+    "sha256": "ec353ab2abaf26e7f1fc0d9f4d6051ea56a737897284312b4f84840ba9cec518",
+    "origin": "2026-11-01 compatibility source:android32/source/emu_fixups.c"
+  },
+  {
+    "path": "third_party/android32/source/emu_fixups.h",
+    "bytes": 1132,
+    "sha256": "ef870776001ca6c914f78ceac87e2326dbc1e5c11374fbbc6db0abd00fccce52",
+    "origin": "2026-11-01 compatibility source:android32/source/emu_fixups.h"
+  },
+  {
+    "path": "third_party/android32/source/error.c",
+    "bytes": 818,
+    "sha256": "4123b413a9d9206ab5afd70ae8347eb12347dcd1af51a95f8d010df8668b740d",
+    "origin": "2026-11-01 compatibility source:android32/source/error.c"
+  },
+  {
+    "path": "third_party/android32/source/error.h",
+    "bytes": 243,
+    "sha256": "2c9db948d33d7b1a4ab1cb006a34ea492798c0958f8ff9d914d4b04b28a884ce",
+    "origin": "2026-11-01 compatibility source:android32/source/error.h"
+  },
+  {
+    "path": "third_party/android32/source/exc32.S",
+    "bytes": 2975,
+    "sha256": "7fb41473ce8e027aafb75dbec295638dfa1b14ad00cf74d6fe291536b124e41e",
+    "origin": "2026-11-01 compatibility source:android32/source/exc32.S"
+  },
+  {
+    "path": "third_party/android32/source/exc_handler.c",
+    "bytes": 10114,
+    "sha256": "3158764f103216eb162c2d5fe35879e68ae7c0daf94046754daba4a2bb534f76",
+    "origin": "2026-11-01 compatibility source:android32/source/exc_handler.c"
+  },
+  {
+    "path": "third_party/android32/source/exc_handler.h",
+    "bytes": 3228,
+    "sha256": "e4dd60f617b76fc813884a785657c8b94a23fcf5b138d69d2654af1c0f15f822",
+    "origin": "2026-11-01 compatibility source:android32/source/exc_handler.h"
+  },
+  {
+    "path": "third_party/android32/source/file_identity.h",
+    "bytes": 2012,
+    "sha256": "934fddea29bab4e77bc361121884f4b8acf9c5f11326ddc5ba93bf5f83989f02",
+    "origin": "2026-11-01 compatibility source:android32/source/file_identity.h"
+  },
+  {
+    "path": "third_party/android32/source/gl_blit.c",
+    "bytes": 16511,
+    "sha256": "19993a2df5f66c2b2e9de53c0b2c3c7deee54175c36bc4855961e7d24dd91a23",
+    "origin": "2026-11-01 compatibility source:android32/source/gl_blit.c"
+  },
+  {
+    "path": "third_party/android32/source/gl_blit.h",
+    "bytes": 1917,
+    "sha256": "e26a2b5b4d4dbd02a99f3e9148534e91c6dd2e070edadc1123d787548fb090a8",
+    "origin": "2026-11-01 compatibility source:android32/source/gl_blit.h"
+  },
+  {
+    "path": "third_party/android32/source/gl_layer.h",
+    "bytes": 3199,
+    "sha256": "46f46eb4cfbc601f8dbc95d4c72d1e814eba69fad414432a5cdf0735768e1ced",
+    "origin": "2026-11-01 compatibility source:android32/source/gl_layer.h"
+  },
+  {
+    "path": "third_party/android32/source/gl_mesa.c",
+    "bytes": 32692,
+    "sha256": "fcf19cdcaefafde79ed813774cfee7eac35c4695aec21a2c15443195d7cf5032",
+    "origin": "2026-11-01 compatibility source:android32/source/gl_mesa.c"
+  },
+  {
+    "path": "third_party/android32/source/gl_null.c",
+    "bytes": 18736,
+    "sha256": "aa192b0b4c7d084eca7d3ba241ca5bd95cc957e2b522edbdea05c4a82731ecd0",
+    "origin": "2026-11-01 compatibility source:android32/source/gl_null.c"
+  },
+  {
+    "path": "third_party/android32/source/host_compat.c",
+    "bytes": 380,
+    "sha256": "2abb3165a677ba045351058dcdd1e260aeec718c0d1e89ddefc273cf4136e3a5",
+    "origin": "2026-11-01 compatibility source:android32/source/host_compat.c"
+  },
+  {
+    "path": "third_party/android32/source/imports.h",
+    "bytes": 2053,
+    "sha256": "30ec489c212e60b0ba94c612694957722c6943812636590351b77e3482e309ef",
+    "origin": "2026-11-01 compatibility source:android32/source/imports.h"
+  },
+  {
+    "path": "third_party/android32/source/imports_lookup.c",
+    "bytes": 1450,
+    "sha256": "998bb309386c9b9546be410ba55a4305ffc02820365ef99384fce1fe215330eb",
+    "origin": "2026-11-01 compatibility source:android32/source/imports_lookup.c"
+  },
+  {
+    "path": "third_party/android32/source/jni.h",
+    "bytes": 8283,
+    "sha256": "5ad21a2457eac092afca44fbc15bc28af12ae64c8f99ff1297618050b7b76f10",
+    "origin": "2026-11-01 compatibility source:android32/source/jni.h"
+  },
+  {
+    "path": "third_party/android32/source/jni_core.c",
+    "bytes": 53417,
+    "sha256": "15bc76b39cfd93e56090382d50fd8fca120a1195b37aae734b751048315abb38",
+    "origin": "2026-11-01 compatibility source:android32/source/jni_core.c"
+  },
+  {
+    "path": "third_party/android32/source/kuser.S",
+    "bytes": 1622,
+    "sha256": "9c3172257c9534a7707007f240a654c231ca3e0349f65efdf4fe64409196f136",
+    "origin": "2026-11-01 compatibility source:android32/source/kuser.S"
+  },
+  {
+    "path": "third_party/android32/source/main.c",
+    "bytes": 5627,
+    "sha256": "17f73aefe6d8cc4d04a38d2e8264e6d92fdda38f2801cfa4d3847f06a4832246",
+    "origin": "2026-11-01 compatibility source:android32/source/main.c"
+  },
+  {
+    "path": "third_party/android32/source/nx32_virtmem.c",
+    "bytes": 7701,
+    "sha256": "7320f9fee91c0f13abaf72e5dfa014c8495e4358f877a73517d8a43df340ea8d",
+    "origin": "2026-11-01 compatibility source:android32/source/nx32_virtmem.c"
+  },
+  {
+    "path": "third_party/android32/source/nx_init.c",
+    "bytes": 5874,
+    "sha256": "15c7cbb4b71bacb96e19ea879e7212ac167c7a4b537f9e5019c9095d9b4d577f",
+    "origin": "2026-11-01 compatibility source:android32/source/nx_init.c"
+  },
+  {
+    "path": "third_party/android32/source/nx_init.h",
+    "bytes": 537,
+    "sha256": "d963e7a253421f80f6eeef538940ffbe8fedb980985821e44eff9807c61105aa",
+    "origin": "2026-11-01 compatibility source:android32/source/nx_init.h"
+  },
+  {
+    "path": "third_party/android32/source/opensles.c",
+    "bytes": 23376,
+    "sha256": "fa146f9805c763b504f416b108f15629e3165cd0950d72a12d13e94c813185bc",
+    "origin": "2026-11-01 compatibility source:android32/source/opensles.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_apkfind.c",
+    "bytes": 16511,
+    "sha256": "faf58862cb2e82e583d2e0e4e1d3cee997196d612e0bafcc2cf672dc2cc34108",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_apkfind.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_apkfind.h",
+    "bytes": 4758,
+    "sha256": "578c29e21fb5728ce97a1d0058f370112b0dabc0eb0a39e7b361d387693bd920",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_apkfind.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_applet.c",
+    "bytes": 5221,
+    "sha256": "fb2a7c9acd6a2a249a5e3fe3002d52fd1906bb6d0e30f8eeb06c5c4c1a08e8d3",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_applet.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_applet.h",
+    "bytes": 2872,
+    "sha256": "06c386d20fb1e9d5b6e63d1153f2b92a5de87e6a4348bb6fded2e653136dbcc5",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_applet.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_audout.c",
+    "bytes": 8147,
+    "sha256": "bb78e4700cd86f8772e12af447c777c872ba985b6c47a062874eac1729a659eb",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_audout.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_audout.h",
+    "bytes": 2643,
+    "sha256": "666c1ea36666ee9b80dcb63d0ec655a162d04c7f1d34ca35b3adda460d431c6e",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_audout.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_boot.c",
+    "bytes": 12022,
+    "sha256": "62901722a428f2b4dffc2c6f124d1471495541801fad2bf78126616e31f5e960",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_boot.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_boot.h",
+    "bytes": 2963,
+    "sha256": "6952063b29017b1b55ae95fc366623331d23682880bd5bfb925b99a7005c9000",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_boot.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_cfg.c",
+    "bytes": 15385,
+    "sha256": "ba82f685c4777150cefb2f000c99478b089bb759f41af3a0079c181e514d91b0",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_cfg.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_cfg.h",
+    "bytes": 8064,
+    "sha256": "a1aa480393f46587fd1d899254c36b382b4c3696f34850312da3f00730e31635",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_cfg.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_device.c",
+    "bytes": 7426,
+    "sha256": "67ff024b1dbf6a92e4298d3e0a7b629268dfc90b69818a73c59f29e2199dde0e",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_device.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_device.h",
+    "bytes": 1301,
+    "sha256": "589e4be79a0ccc0eccb3990e63c82f95e7b91fec0e9aae54a7b71385ef50def7",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_device.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_migrate.c",
+    "bytes": 12919,
+    "sha256": "1c87c94333104e3337e5b709baa1bc0400d32101ca982a84eebeafc299e391ed",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_migrate.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_migrate.h",
+    "bytes": 3739,
+    "sha256": "1417222caf97ee631e182806c76e04005863a1fc9cc276be05d0a03170b6b7ae",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_migrate.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_pad.c",
+    "bytes": 6331,
+    "sha256": "23ce36ccc72bc5e80129bb889aad5e111331760d22391b66a100063ed808b19a",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_pad.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_pad.h",
+    "bytes": 2268,
+    "sha256": "05f3eee6e7106f75a4b9207f06d75ad0e9ba35086ed246ccb2ce1e19165e534a",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_pad.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_settings.h",
+    "bytes": 3593,
+    "sha256": "62364b808f2c6a5baa21cd100c6de13e8104fdfd8bfb54e71cad561f40a86800",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_settings.h"
+  },
+  {
+    "path": "third_party/android32/source/rt_window.c",
+    "bytes": 1424,
+    "sha256": "0881f4dca08ad19235f8e2adfb0b3426f38b88debbbda9457544e058fb2db8d3",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_window.c"
+  },
+  {
+    "path": "third_party/android32/source/rt_window.h",
+    "bytes": 877,
+    "sha256": "66e4b3630c626dcb412321324ca61410b88b7df7968e9a459ff4860dfeec5e5e",
+    "origin": "2026-11-01 compatibility source:android32/source/rt_window.h"
+  },
+  {
+    "path": "third_party/android32/source/selfproc.c",
+    "bytes": 3424,
+    "sha256": "056556f8a2d17c1efda431eafdf67382276aaca0a2284b282567e699e6ad87a6",
+    "origin": "2026-11-01 compatibility source:android32/source/selfproc.c"
+  },
+  {
+    "path": "third_party/android32/source/selfproc.h",
+    "bytes": 238,
+    "sha256": "f0c33eb72b5bbd943a600e249361ec893b39da2f68643251e1c6e19c4544e71a",
+    "origin": "2026-11-01 compatibility source:android32/source/selfproc.h"
+  },
+  {
+    "path": "third_party/android32/source/so_util.c",
+    "bytes": 35346,
+    "sha256": "a5d0c27c6da469daa72626e578aefdca82b72db421b384a72a56f14313047747",
+    "origin": "2026-11-01 compatibility source:android32/source/so_util.c"
+  },
+  {
+    "path": "third_party/android32/source/so_util.h",
+    "bytes": 6420,
+    "sha256": "1f1409a921f817c64a8b0c778f65a1ed1c0e3c06ec67bdc9a8f5e3730b343668",
+    "origin": "2026-11-01 compatibility source:android32/source/so_util.h"
+  },
+  {
+    "path": "third_party/android32/source/util.c",
+    "bytes": 10834,
+    "sha256": "173eabdc07374cdb6e1e82a1fc10ba43c68f7923a4a98fe203c36b9e5cfcf9e2",
+    "origin": "2026-11-01 compatibility source:android32/source/util.c"
+  },
+  {
+    "path": "third_party/android32/source/util.h",
+    "bytes": 2145,
+    "sha256": "7715e464ebccbfe45e803b4354320ca93e51abf35bc42ddc065eaf21dfd34d61",
+    "origin": "2026-11-01 compatibility source:android32/source/util.h"
+  },
+  {
+    "path": "third_party/android32/source/watchdog.c",
+    "bytes": 14397,
+    "sha256": "0cb0864b341c551e6e820c16737bf39ffbaf4cccb21c5de640aec2a5fcc06bdd",
+    "origin": "2026-11-01 compatibility source:android32/source/watchdog.c"
+  },
+  {
+    "path": "third_party/android32/source/watchdog.h",
+    "bytes": 1215,
+    "sha256": "5ac7a1a65f040848c6f3bb54dc713f10a898515b2221d1cfa655789e72f80801",
+    "origin": "2026-11-01 compatibility source:android32/source/watchdog.h"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 1365,
+    "sha256": "1e9b13bb5f4fa3adf65ab750bc2e48c99a2ced5f370b01c741aee2c512e8b271",
+    "origin": "project documentation and licensing"
+  },
+  {
+    "path": "tools/build/release-original.sh",
+    "bytes": 1675,
+    "sha256": "125ac0b7293edb7b3e469309bd62b502d174cea00cdd75daa8ac910231e68d2a",
+    "origin": "2026-11-01 compatibility source:build.sh"
+  },
+  {
+    "path": "tools/build_python32_probe.sh",
+    "bytes": 5231,
+    "sha256": "3d2af891cd8656715ea642b0630b760ae27c98d7f2af818b6c1200c5ed6effcf",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/ffmpeg32/build-target.sh",
+    "bytes": 521,
+    "sha256": "43c729acf6f7cf92c13df5fceca6ad26da4dc812243d0ccf6f11212a3816303a",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/ffmpeg32/build.sh",
+    "bytes": 1552,
+    "sha256": "aa31f6e70467c57607d41c98f3a70d9aa6512c5738f0b38dbd3a3e8ea75cf6be",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/ffmpeg32/build_ffmpeg32.sh",
+    "bytes": 2799,
+    "sha256": "10fe2d6821a28c96bf69d86ed2a20e16be8751da6f5c16b664e4ce7e29d679af",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/ffmpeg32/LICENSE",
+    "bytes": 1063,
+    "sha256": "26f159ac8ac8d2f7ee17c8183966ff8dfbfdcfbc03028fc3941cf1966ffdd820",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/generate_boot_ui_font.py",
+    "bytes": 1387,
+    "sha256": "78c64a5ecd381eae5da87684b248c9c37a6f3b939f010cb80b93d2b420ffd1a9",
+    "origin": "BH-NX-Ferculum font generation tool"
+  },
+  {
+    "path": "tools/packaging/build_standalone_nsp.py",
+    "bytes": 8742,
+    "sha256": "445c4ecab3a98b9872bafedc167ecced3e31605e4ca1f090ba0a758cf946c5d3",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/packaging/check_shared_resource_entry.py",
+    "bytes": 2295,
+    "sha256": "d0e29da7d7949cb0425d6a95d0aa957a6087ebab54d70e9dd45b1e2ad2d9362a",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/packaging/prepare_gamecard_entry.py",
+    "bytes": 3425,
+    "sha256": "f186142afa1edaf89cf399d2569f563d3c7fbecc975a4020733a62f838bccb18",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/patch_mesa_etc.py",
+    "bytes": 1151,
+    "sha256": "47a45cdeba44f5a41b68e50690be19594009ca8873c68abc04d8e46030c21691",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/resources/prepare_manifest.py",
+    "bytes": 1954,
+    "sha256": "916a2c8079c9722d3feee86fbd38d86e469322c36004708616bb813312f98e50",
+    "origin": "BH-NX-Ferculum build and integration support"
+  },
+  {
+    "path": "tools/test_package_install.py",
+    "bytes": 2703,
+    "sha256": "7785447db928c6df69ece66fc7f41b6dccaf6cdc2989ccc9e53047d6a19a0cee",
+    "origin": "BH-NX-Ferculum build and integration support"
+  }
+]

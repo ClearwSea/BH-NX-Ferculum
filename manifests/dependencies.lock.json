@@ -1,0 +1,65 @@
+{
+  "repositories": [
+    {
+      "name": "spacehulk-nx",
+      "url": "https://github.com/liartes/spacehulk-nx.git",
+      "commit": "bb70e6b134e10429fa45601b509c943cd000bd02"
+    },
+    {
+      "name": "android32",
+      "url": "https://github.com/aks796/android32.git",
+      "commit": "4b5e470a494c529ae77cd490c88a91bfe28828f3"
+    },
+    {
+      "name": "libnx32",
+      "url": "https://github.com/aks796/libnx32.git",
+      "commit": "35c0b5aeb84a5456ea1419d98fd833631bda4279"
+    },
+    {
+      "name": "mesa32",
+      "url": "https://github.com/aks796/mesa32.git",
+      "commit": "b02c9c5f9cf0b08c6e49d4c0ee52a2d8bfd7fd42"
+    },
+    {
+      "name": "dcr_sea_nx",
+      "url": "https://github.com/aks796/dcr_sea_nx.git",
+      "commit": "1fe4f3a9da70c00699b6ddb5f0984d5cef78e084"
+    },
+    {
+      "name": "ffmpeg32",
+      "url": "https://github.com/aks796/ffmpeg32.git",
+      "commit": "baef37dfd4526ff37f70dc68017ee847c553c725"
+    }
+  ],
+  "toolchain": "ghcr.io/vita2hos/devcontainer/vita2hos@sha256:3860772020f697865b0476ef72d680230b6b4f40d3f84659f546159b32f859d6",
+  "note": "Pinned source references. ARM32 dependency prefixes must be built separately.",
+  "ffmpeg": {
+    "version": "7.1.1",
+    "source_tar_sha256": "733984395e0dbbe5c046abda2dc49a5544e7e0e1e2366bba849222ae9e3a03b1",
+    "build_sh_sha256": "e21fbd63136fabf9c1ae0387ace5837d912426f72a848d095a9718b980afa4d0",
+    "build_ffmpeg32_sh_sha256": "10fe2d6821a28c96bf69d86ed2a20e16be8751da6f5c16b664e4ce7e29d679af",
+    "components": [
+      "mov",
+      "h264",
+      "aac"
+    ],
+    "abi": "ARM softfp, -fno-short-enums"
+  },
+  "runtime_patches": [
+    "patches/android32-so-program-headers.patch",
+    "patches/android32-crash-tail.patch"
+  ],
+  "embedded_python_dependencies": "poc/python32_probe/dependencies.json",
+  "packaging_tools": [
+    {
+      "name": "hacBrewPack",
+      "url": "https://github.com/rlaphoenix/hacBrewPack",
+      "commit": "745b16ecfc9ce055743067d200572204cb2aac6c"
+    },
+    {
+      "name": "hactool",
+      "url": "https://github.com/SciresM/hactool",
+      "version": "1.4.0"
+    }
+  ]
+}

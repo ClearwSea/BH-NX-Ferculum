@@ -1,0 +1,5 @@
+#!/bin/bash
+export _PYTHON_PROJECT_BASE=/py/target-build
+export _PYTHON_SYSCONFIGDATA_NAME=_sysconfigdata__horizon_
+export PYTHONPATH=/py:/py/host-build/build/lib.linux-x86_64-3.11
+exec /py/host-build/python "$@"

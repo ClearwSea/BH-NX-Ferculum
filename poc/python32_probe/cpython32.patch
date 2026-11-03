@@ -1,0 +1,77 @@
+--- a/configure
++++ b/configure
+@@ -3814,6 +3814,7 @@
+        # a lot of different things including 'define_xopen_source'
+        # in the case statement below.
+ 	case "$host" in
++        arm-*-eabi) ac_sys_system=Horizon ;;
+ 	*-*-linux-android*)
+ 		ac_sys_system=Linux-android
+ 		;;
+@@ -3878,6 +3879,7 @@
+ 
+ if test "$cross_compiling" = yes; then
+ 	case "$host" in
++        arm-*-eabi) _host_cpu=arm ;;
+ 	*-*-linux*)
+ 		case "$host_cpu" in
+ 		arm*)
+--- a/Modules/timemodule.c
++++ b/Modules/timemodule.c
+@@ -39,7 +39,7 @@
+ #  include <sanitizer/msan_interface.h>
+ #endif
+ 
+-#ifdef _MSC_VER
++#if defined(_MSC_VER) || defined(__SWITCH__)
+ #  define _Py_timezone _timezone
+ #  define _Py_daylight _daylight
+ #  define _Py_tzname _tzname
+--- a/Python/bootstrap_hash.c
++++ b/Python/bootstrap_hash.c
+@@ -1,4 +1,7 @@
+ #include "Python.h"
++#ifdef __SWITCH__
++#include <switch.h> /* switch random adapter */
++#endif
+ #include "pycore_initconfig.h"
+ #include "pycore_fileutils.h"     // _Py_fstat_noraise()
+ 
+@@ -487,6 +490,10 @@
+     if (size == 0) {
+         return 0;
+     }
++#ifdef __SWITCH__
++    randomGet(buffer, (size_t)size);
++    return 0;
++#endif
+ 
+ #ifdef MS_WINDOWS
+     return win32_urandom((unsigned char *)buffer, size, raise);
+--- a/Modules/selectmodule.c
++++ b/Modules/selectmodule.c
+@@ -13,6 +13,10 @@
+ #endif
+ 
+ #include "Python.h"
++#ifdef __SWITCH__
++/* BSD poll needs a live network service; not advertised by this offline probe. */
++#undef HAVE_POLL
++#endif
+ #include "pycore_fileutils.h"     // _Py_set_inheritable()
+ #include "structmember.h"         // PyMemberDef
+ 
+--- a/Python/thread_pthread.h
++++ b/Python/thread_pthread.h
+@@ -27,5 +27,10 @@
+ #endif
+ 
++/* newlib provides pthread_attr_setstacksize but omits this feature macro. */
++#if defined(__SWITCH__) && !defined(_POSIX_THREAD_ATTR_STACKSIZE)
++#define _POSIX_THREAD_ATTR_STACKSIZE 200809L
++#endif
++
+ /* The POSIX spec requires that use of pthread_attr_setstacksize
+    be conditional on _POSIX_THREAD_ATTR_STACKSIZE being defined. */
+ #ifdef _POSIX_THREAD_ATTR_STACKSIZE
+

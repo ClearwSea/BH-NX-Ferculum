@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /py/host-build/python /py/build-tools/cython-3.0.12/cython.py "$@"

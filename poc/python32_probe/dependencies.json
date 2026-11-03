@@ -1,0 +1,16 @@
+{
+  "python": "3.11.18",
+  "numpy": "1.26.2",
+  "cython": "3.0.12",
+  "zlib": "1.3.2",
+  "sources": {
+    "Python-3.11.18.tar.xz": "9120e0a653868f6e3698d36cdd99e5a58903ec9469e448f21d98f7b16d8fa290",
+    "numpy-1.26.2.tar.gz": "f65738447676ab5777f11e6bbbdb8ce11b785e105f690bc45966574816b6d3ea",
+    "build-tools/cython-3.0.12.tar.gz": "b988bb297ce76c671e28c97d017b95411010f7c77fa6623dd0bb47eed1aee1bc",
+    "zlib-1.3.2.tar.xz": "d7a0654783a4da529d1bb793b7ad9c3318020af77667bcae35f95d0e42a792f3"
+  },
+  "libnx_archive_sha256": "543c2d266e3e3950b3b0ae7cb5aa2623ed8483405a357485663e26f86a616936",
+  "image": [
+    "ghcr.io/vita2hos/devcontainer/vita2hos@sha256:3860772020f697865b0476ef72d680230b6b4f40d3f84659f546159b32f859d6"
+  ]
+}

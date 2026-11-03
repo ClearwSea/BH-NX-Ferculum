@@ -1,0 +1,25 @@
+# External inputs and local state
+/inputs/
+/private/
+*.keys
+prod.keys
+title.keys
+account.json
+player-prefs.bin
+*.nsp
+*.nca
+*.apk
+*.elf
+*.o
+*.a
+__pycache__/
+*.py[cod]
+/poc/**/build*/
+/examples/**/build*/
+/tools/ffmpeg32/build*/
+/tools/ffmpeg32/prefix/
+/third_party/**/prefix/
+/release-reference/
+
+# Generated from a user-provided font.
+/poc/m3_boot/source/boot_ui_font.h

@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+name=$(basename "$0")
+compiler=arm-none-eabi-gcc
+if [[ "$name" == *cpp* ]]; then compiler=arm-none-eabi-g++; fi
+for arg in "$@"; do
+ if [[ "$arg" == '-c' || "$arg" == '-E' || "$arg" == '--version' ]]; then exec "$compiler" -include /py/target-build/pyconfig.h "$@"; fi
+ if [[ "$arg" == '-shared' ]]; then exec "$compiler" -include /py/target-build/pyconfig.h -nostartfiles "$@" -Wl,-z,notext; fi
+done
+exec "$compiler" -include /py/target-build/pyconfig.h "$@" -specs=/opt/devkitpro/libnx32/switch32.specs -L/nx/lib -lnx -lm -Wl,-z,notext
