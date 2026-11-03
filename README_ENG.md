@@ -1,5 +1,7 @@
 [中文](README.md) · [English](README_ENG.md)
 
+> This README was generated automatically by an Agent; please refer to the actual project state as authoritative.
+
 # BH-NX-Ferculum
 
 > **This project is a VIBECODING product.** Development relied heavily on AI assistance, and the code may contain omissions. Please bear with any issues; fixes and improvements from developers are welcome.
@@ -35,6 +37,14 @@ Target: Honkai Impact 3rd 1.9 / Unity 5.3.6p5 / IL2CPP / Android `armeabi-v7a`. 
 ```
 
 Patches are bound to a specific binary layout. Other builds with the same version number need their addresses and instruction signatures checked again. The server must implement the hosting interface. Runtime conditions: [features and integration requirements](docs/status.md).
+
+### Tested devices
+
+The following devices were actually tested by the maintainer and are listed for reference; unlisted environments are not guaranteed to behave the same.
+
+| Device | System environment |
+| --- | --- |
+| Nintendo Switch V1 (HAC001) | System 21.2.0, AMS 1.10.2, E |
 
 ## Usage flow
 
