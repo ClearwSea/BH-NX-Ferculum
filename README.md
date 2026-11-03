@@ -1,3 +1,5 @@
+[中文](README.md) · [English](README_ENG.md)
+
 # BH-NX-Ferculum
 
 > **本项目是 VIBECODING 产物。** 开发过程中大量使用 AI 辅助，代码可能存在疏漏；如遇问题，请多谅解，欢迎开发者修复与改进。
