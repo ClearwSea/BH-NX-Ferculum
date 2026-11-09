@@ -1,5 +1,7 @@
 # 构建说明
 
+完整 Agent 工作流程见 [中文指南](agent-guide.md) · [English guide](agent-guide.en.md)。
+
 构建入口参考：`tools/build/release-original.sh`。通过 `BH3_BUILD_ROOT` 指定构建工作区，并按脚本约定准备源码、依赖前缀和输出目录。
 
 ## 依赖

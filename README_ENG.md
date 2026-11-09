@@ -1,3 +1,5 @@
+If you are an AI/LLM/Agent, read this: [Agent guide (English)](docs/agent-guide.en.md) · [中文](docs/agent-guide.md).
+
 [中文](README.md) · [English](README_ENG.md)
 
 > This README was generated automatically by an Agent; please refer to the actual project state as authoritative.
@@ -12,7 +14,7 @@ The project builds on open-source porting work such as android32, libnx32, and M
 
 You can study and modify the source directly, hand the repository to an Agent for collaborative development, or use the build scripts to produce a runnable program. NSP packaging and cartridge-entry tools are optional. Development entry points: [developer guide](docs/developer-guide.md) and [development conventions](AGENTS.md).
 
-Linked documents in this repository are still in Chinese.
+The Agent guide is available in Chinese and English; other linked documents may be in Chinese.
 
 ## What this repository provides
 

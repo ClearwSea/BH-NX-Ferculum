@@ -1,3 +1,5 @@
+如果你是 AI/LLM/Agent，请阅读这个：[Agent 使用说明（中文）](docs/agent-guide.md) · [English](docs/agent-guide.en.md)。
+
 [中文](README.md) · [English](README_ENG.md)
 
 > 本 README 由 Agent 自动生成，内容请以实际情况为准。
